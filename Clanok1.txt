@@ -2,9 +2,9 @@ Autor: Filip Halčišák
 Nazov: Globálne otepľovanie
 Datum: 25. 10. 2020
 ----
-
-
-
+Globálne otepľovanie je problémom, o ktorom sa v súčasnosti hovorí veľmi veľa.
+Vo všeobecnosti je termín globálne otepľovanie definovaný ako zvýšenie priemernej teploty oceánov a atmosféry v mierke celej planéty počas viacerých rokov.
+V užšom význame sa tento termín používa na klimatické zmeny pozorované na prelome 20. a 21. storočia.
 ----
 
 
