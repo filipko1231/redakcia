@@ -2,9 +2,9 @@ Autor: Filip Halčišák
 Nazov: Globálne otepľovanie
 Datum: 25. 10. 2020
 ----
-Globálne otepľovanie je problémom, o ktorom sa v súčasnosti hovorí veľmi veľa.
-Vo všeobecnosti je termín globálne otepľovanie definovaný ako zvýšenie priemernej teploty oceánov a atmosféry v mierke celej planéty počas viacerých rokov.
-V užšom význame sa tento termín používa na klimatické zmeny pozorované na prelome 20. a 21. storočia.
+Globálne priemerné teploty narástli za posledných 140 rokov (odkedy sa vedú záznamy) o 0,3 - 0,6 °C.
+Posledné dve desaťročia sa vyznačovali tým že boli obidve nezvyklo teplé. Osem najteplejších rokov, odkedy sa vedú záznamy, sa odohralo po roku 1980.
+Toto obdobie bolo tiež charakteristické dovtedy nepoznanou intenzitou a početnosťou extrémov v počasí, ako suchá, víchrice.
 ----
 Od konca 19. storočia sa priemerné teploty zvýšili o 0,2 až 0,6 °C.
 Najmä v posledných 25-50 rokoch sa na globálnom otepľovaní v značnej miere podieľa činnosť človeka,
