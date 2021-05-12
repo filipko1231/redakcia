@@ -2,9 +2,9 @@ Autor: Filip Halčišák
 Nazov: Globálne otepľovanie
 Datum: 25. 10. 2020
 ----
-Globálne otepľovanie je problémom, o ktorom sa v súčasnosti hovorí veľmi veľa.
-Vo všeobecnosti je termín globálne otepľovanie definovaný ako zvýšenie priemernej teploty oceánov a atmosféry v mierke celej planéty počas viacerých rokov.
-V užšom význame sa tento termín používa na klimatické zmeny pozorované na prelome 20. a 21. storočia.
+Globálnym otepľovaním vedci nazývajú proces všeobecného otepľovania zemskej atmosféry.
+Globálne otepľovanie sa ďalej rozlišuje na prirodzené a na to zapríčinené človekom. O existencii prirodzeného globálneho otepľovania niet pochýb a ani sa o ňom v medzinárodných kruhoch nevedú búrlivé diskusie.
+Je jednoducho faktom že priemerné teploty sa (už od doby ľadovej) zvyšujú, problémom však je práve ono otepľovanie zapríčinené človekom. Čo je príčinou globálneho otepľovania?
 ----
 Od konca 19. storočia sa priemerné teploty zvýšili o 0,2 až 0,6 °C.
 Najmä v posledných 25-50 rokoch sa na globálnom otepľovaní v značnej miere podieľa činnosť človeka,
