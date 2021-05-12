@@ -6,7 +6,7 @@ Globálne otepľovanie je problémom, o ktorom sa v súčasnosti hovorí veľmi 
 Vo všeobecnosti je termín globálne otepľovanie definovaný ako zvýšenie priemernej teploty oceánov a atmosféry v mierke celej planéty počas viacerých rokov.
 V užšom význame sa tento termín používa na klimatické zmeny pozorované na prelome 20. a 21. storočia.
 ----
-
-
-
+Väčšiu časť atmosféry tvoria plyny dusík a kyslík. Tieto plyny žiarenie ani nepohlcujú, ani nevyžarujú. Na tepelnú bilanciu atmosféry teda nemajú žiadny vplyv.
+V atmosfére sa však nachádzajú plyny ktoré určitú časť tepelného žiarenia pohlcujú a teda atmosféru a zemský povrch oteplujú. To sú tzv.skleníkové plyny, ktoré spôsobujú fenomén nazývaný skleníkový efekt.
+Sú to predovšetkým vodná para, oxid uhličitý ale tiež metán, oxid dusný, chorfluorované uhlovodíky (freóny) a ozón.
 ----
